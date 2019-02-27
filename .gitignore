@@ -1,7 +1,8 @@
 
 # Ignore all
 *
-
+.vscode
+test
 # Unignore all with extensions
 !*.*
 
