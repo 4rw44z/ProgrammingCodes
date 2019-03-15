@@ -7,5 +7,7 @@
 
 # Unignore all dirs
 !*/
-.vscode/
-test/
+#ignore these Dirs
+.vscode
+
+test
